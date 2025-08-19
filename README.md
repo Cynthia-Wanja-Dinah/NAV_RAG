@@ -1,4 +1,5 @@
-PrepMate AI smart interview practice assistant
+# Project Name - PrepAI 
+### PrepMate AI smart interview practice assistant
 Prep AI is an intelligent interview preparation tool that helps job seekers practice effectively. By uploading a PDF with interview questions, users can interact with the app as if they were in a real interview. The system uses Retrieval-Augmented Generation (RAG) to provide meaningful, context-based answers and guidance.
 
 Advantages:
@@ -21,3 +22,4 @@ Ask & Practice – Users ask questions, and the RAG system retrieves relevant in
 
 
 Answer & Feedback – The AI responds with context-aware answers to simulate an interview session.
+
